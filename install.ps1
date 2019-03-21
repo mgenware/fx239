@@ -4,3 +4,4 @@ choco install -y git
 choco install -y nodejs.install
 choco install -y visualstudiocode
 choco install -y golang
+choco install -y yarn
